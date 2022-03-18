@@ -11,5 +11,7 @@
   <img src="./profile-summary-card-output/github_dark/0-profile-details.svg"/>
 </div>
 
-<!-- ### Hi there 👋
-[![](./profile-summary-card-output/github_dark/3-stats.svg)]() [![](./profile-summary-card-output/github_dark/4-productive-time.svg)]() -->
+### Hi there 👋   
+About Me:  https://www.okcd00.tech/about/      
+About My Work:  https://www.okcd00.tech/about/my_work       
+<!-- [![](./profile-summary-card-output/github_dark/3-stats.svg)]() [![](./profile-summary-card-output/github_dark/4-productive-time.svg)]() -->
